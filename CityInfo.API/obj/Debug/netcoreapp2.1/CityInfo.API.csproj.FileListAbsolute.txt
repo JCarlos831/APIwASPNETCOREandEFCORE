@@ -1,0 +1,14 @@
+/Users/JuanCMontoya/Projects/PluralSight/CityInfo/CityInfo.API/bin/Debug/netcoreapp2.1/CityInfo.API.deps.json
+/Users/JuanCMontoya/Projects/PluralSight/CityInfo/CityInfo.API/bin/Debug/netcoreapp2.1/CityInfo.API.runtimeconfig.json
+/Users/JuanCMontoya/Projects/PluralSight/CityInfo/CityInfo.API/bin/Debug/netcoreapp2.1/CityInfo.API.runtimeconfig.dev.json
+/Users/JuanCMontoya/Projects/PluralSight/CityInfo/CityInfo.API/bin/Debug/netcoreapp2.1/CityInfo.API.dll
+/Users/JuanCMontoya/Projects/PluralSight/CityInfo/CityInfo.API/bin/Debug/netcoreapp2.1/CityInfo.API.pdb
+/Users/JuanCMontoya/Projects/PluralSight/CityInfo/CityInfo.API/obj/Debug/netcoreapp2.1/CityInfo.API.csprojAssemblyReference.cache
+/Users/JuanCMontoya/Projects/PluralSight/CityInfo/CityInfo.API/obj/Debug/netcoreapp2.1/CityInfo.API.csproj.CoreCompileInputs.cache
+/Users/JuanCMontoya/Projects/PluralSight/CityInfo/CityInfo.API/obj/Debug/netcoreapp2.1/CityInfo.API.RazorAssemblyInfo.cache
+/Users/JuanCMontoya/Projects/PluralSight/CityInfo/CityInfo.API/obj/Debug/netcoreapp2.1/CityInfo.API.RazorAssemblyInfo.cs
+/Users/JuanCMontoya/Projects/PluralSight/CityInfo/CityInfo.API/obj/Debug/netcoreapp2.1/CityInfo.API.AssemblyInfoInputs.cache
+/Users/JuanCMontoya/Projects/PluralSight/CityInfo/CityInfo.API/obj/Debug/netcoreapp2.1/CityInfo.API.AssemblyInfo.cs
+/Users/JuanCMontoya/Projects/PluralSight/CityInfo/CityInfo.API/obj/Debug/netcoreapp2.1/CityInfo.API.RazorTargetAssemblyInfo.cache
+/Users/JuanCMontoya/Projects/PluralSight/CityInfo/CityInfo.API/obj/Debug/netcoreapp2.1/CityInfo.API.dll
+/Users/JuanCMontoya/Projects/PluralSight/CityInfo/CityInfo.API/obj/Debug/netcoreapp2.1/CityInfo.API.pdb
